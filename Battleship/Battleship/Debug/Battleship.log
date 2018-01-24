@@ -1,0 +1,4 @@
+﻿  Operation.cpp
+c:\users\tiffa\desktop\drawgrid\operation.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Battleship.vcxproj -> C:\Users\tiffa\source\repos\Battleship\Debug\Battleship.exe
+  Battleship.vcxproj -> C:\Users\tiffa\source\repos\Battleship\Debug\Battleship.pdb (Partial PDB)
